@@ -1,0 +1,14 @@
+#Unit name. Used as an identifier, thus only alphabets are allowed.
+unit_name=Pioneer
+
+#Central ip address. The ip address of the central computer should be noted.
+central_ip_address=192.168.0.4
+
+#Central ip port. The port of the TCP connection.
+central_ip_port=3000
+
+#Serial port. Self Explanatory.
+serial_port=/dev/ttyUSB0
+
+#Serial baud rate. Self Explanatory.
+serial_baud_rate=15200
